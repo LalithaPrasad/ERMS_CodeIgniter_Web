@@ -1,0 +1,13 @@
+body{
+    width:30%;
+    margin-left:auto;
+    margin-right:auto;
+}
+.errors{
+    margin-bottom:10px;
+    color:red;
+}
+.messages{
+    margin-bottom:10px;
+    color:green;
+}
